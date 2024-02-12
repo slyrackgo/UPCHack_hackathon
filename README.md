@@ -12,9 +12,3 @@ To run the dApp:
 2. `yarn`
 3. `yarn start`
 
-
-# donationApp
-# donationApp
-# donationApp
-# donationApp
-# donationApp
